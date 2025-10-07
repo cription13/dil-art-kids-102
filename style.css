@@ -1,0 +1,74 @@
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #fff;
+    }
+
+    .container {
+      max-width: 600px;
+      margin: 50px auto;
+      background: white;
+      padding: 30px;
+      border-radius: 15px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+
+      .new-badge {
+      top: 10px;
+      left: 10px;
+      background: rgb(166, 172, 161);
+      color: black;
+      font-size: 12px;
+      font-weight: bold;
+      padding: 3px 8px;
+      border-radius: 4px;
+    }
+
+    img {
+      width: 100%;
+      border-radius: 10px;
+    }
+
+    h1 {
+      font-size: 28px;
+      color: #222;
+      margin-bottom: 10px;
+      text-align: center;
+    }
+
+    p {
+      font-size: 18px;
+      margin-bottom: 20px;
+      text-align: center;
+    }
+
+    .price {
+      font-size: 24px;
+      color: #27ae60;
+      margin-bottom: 20px;
+      text-align: center;
+      font-weight: bold;
+    }
+
+    form input, form textarea {
+      width: 100%;
+      padding: 12px;
+      margin-bottom: 15px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      font-size: 16px;
+    }
+
+    .success {
+      color: green;
+      text-align: center;
+      margin-top: 20px;
+    }
+
+    iframe {
+        border-radius: 5%;
+        display: flex;
+        text-align: center;
+        margin: auto;
+    }
